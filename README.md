@@ -2,7 +2,7 @@
 
 - 🌍 Moro em Volta Redonda RJ/ Brasil
 - 👨‍💻 Atualmente trabalho com linguagens back-end
-- 💻 Estou me aprofundando mais em Python e Git
+- 💻 Estou me aprofundando mais em Python
 - 🐱‍💻 No momento trabalho mais com C, Pyhton, JavaScript e C#
 <div>
   <a href="https://github.com/eucgabriel">
